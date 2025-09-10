@@ -1,1 +1,4 @@
-# exemplo_git_2
+# 🚀 Trabalhando com GIT
+
+> "aplicando códigos inciais." ✨
+> "Ultilizando GIT e GitHub." ✨
